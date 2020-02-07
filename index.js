@@ -77,7 +77,7 @@ setInterval(function() {
 //     db = db.split("🃏");
 //     let list = {};
 //     for (let i = 0; i < db.length; i++) {
-//         let k = db[i].split("🎴");4
+//         let k = db[i].split("🎴");
 //         list[k[0]] = {
 //             url: k[0],
 //             title: k[1],
